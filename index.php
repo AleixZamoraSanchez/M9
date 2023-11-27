@@ -1,5 +1,6 @@
 <?php
-//echo "<h1>Hello world!</h1>";
+//echo 'Hello World!';
+
 require 'app/index.php';
 
 require 'resources/views/index.blade.php';
