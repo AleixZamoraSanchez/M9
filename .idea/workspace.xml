@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d752bbaf-74b4-45e7-b0c8-76ac97a775e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/users.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/errors/404.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layout/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layout/html_header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layout/nav.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/users.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/App.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/Database/Connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/Database/Connection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/Database/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/Database/Database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/Route.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/Route.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/helpers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +52,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/alumne/Escriptori/M9/M9/resources&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alumne/Escriptori/M9/M9&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -120,6 +95,12 @@
       <workItem from="1700588943366" duration="58000" />
       <workItem from="1701101512333" duration="4631000" />
       <workItem from="1701109777301" duration="326000" />
+      <workItem from="1701706188870" duration="823000" />
+      <workItem from="1702310685076" duration="1422000" />
+      <workItem from="1702316149969" duration="1813000" />
+      <workItem from="1704729811983" duration="1954000" />
+      <workItem from="1705332869612" duration="40000" />
+      <workItem from="1705333108731" duration="6321000" />
     </task>
     <servers />
   </component>
